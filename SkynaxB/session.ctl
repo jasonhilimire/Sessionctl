@@ -1,6 +1,5 @@
 ### THIS IS SKYNAX B
 #
-#
 # 01/17/18 JMO added 264101, 264102, 264201, 264202
 # 01/14/18 JMO added 262107 and removed 262011
 # 01/13/18 JMO upgraded FORT and BTMT to 7.68B
